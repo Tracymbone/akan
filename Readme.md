@@ -1,15 +1,15 @@
-#PROJECT NAME
+# PROJECT NAME
 Akan-culture
-##PROJECT  DESCRIPTION
+## PROJECT  DESCRIPTION
 This project aims at showing the akan system of naming newbornes.
-###AUTHOR INFORMATION
+### AUTHOR INFORMATION
 Trcay Mbone
-##SETUP INSTRUCTION
+## SETUP INSTRUCTION
 This project is also foung in other medias.
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 Html
 Bootstrup
 Javascript
 Css
-##CONTACT INFORMATION
+## CONTACT INFORMATION
 +254740848186
