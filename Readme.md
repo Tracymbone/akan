@@ -1,16 +1,16 @@
-#Project Name
+# Project Name
 Akan culture
-##Project Descriptiont
+## Project Descriptiont
 This project aims at showing akan naming system in their culture
-###Authors information
+### Authors information
 Tracy Mbone
-##Setup instruction
+## Setup instruction
 This project is also found in pther medias
-##Technologies used
+## Technologies used
 Html
 Css
 Javascript
 Bootstrup
-###Contact Information
+### Contact Information
 +254740848186
 
